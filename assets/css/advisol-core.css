@@ -1630,6 +1630,10 @@ line-height: 48px; /* 120% */
   min-height: 950px;
   display: flex;
   align-items: center;
+  background-image: url("../img/new/banner_bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .hadding1.main-hadding {
   padding-top: 100px;
@@ -1801,7 +1805,7 @@ line-height: 48px; /* 120% */
 }
 
 .main-hero {
-  height: 1180px;
+  height: 950px;
 }
 
 .home1-header-img1 {
@@ -1833,19 +1837,19 @@ line-height: 48px; /* 120% */
 
 /*======== home1 counter area ===========*/
 .counter-hadding h1 {
-  color: #19191B;
-  font-size: 65px;
+  color: #ffffff;
+  font-size: 1.75rem;
   line-height: 65px;
   font-weight: 700;
 }
 
 .counter-hadding p {
-color: var(--neutral-paragraph, #565F76);
+color: #d3a96f;
 font-size: 18px;
 font-family: Inter;
 font-style: normal;
 font-weight: 500;
-line-height: 16px;
+line-height: 25px;
 padding-top: 16px
 }
 
@@ -2107,8 +2111,8 @@ button.accordion-button.accordion-button2 {
 }
 
 .choose1 {
-  background-image: url(../img/bg/choose1-bg.png);
-  background-position: right;
+  background-image: url(../img/new/blog_bg.png);
+  background-position: center;
   background-repeat: no-repeat;
 }
 /*======== home1 service area ===========*/

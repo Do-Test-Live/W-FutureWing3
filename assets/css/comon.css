@@ -272,6 +272,11 @@ a.home4-btn-plan:hover::after {
   transition: all 200ms linear;
 }
 
+.client-image{
+  border: 1px solid #d7dadf;
+  border-radius: 5px;
+}
+
 /*============================
 ++++PAGE-PROGRESS-END+++++
 =============================*/
@@ -744,12 +749,15 @@ button.button3 {
 =============================*/
 
 .hadding1 h1 {
-  color: var(--neutral-main-text-color, #19191B);
-font-size: 40px;
-font-style: normal;
-font-weight: 700;
-line-height: 48px; /* 120% */
-text-transform: capitalize;
+  background: linear-gradient(to right, #B68F5D, #e7bc7b);
+  -webkit-background-clip: text; /* For webkit browsers */
+  background-clip: text;
+  color: transparent;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 48px; /* 120% */
+  text-transform: capitalize;
 }
 
 .hadding1 h2 {
@@ -763,8 +771,8 @@ text-transform: capitalize;
 }
 
 .hadding1 p {
-  color: #353943;
-  font-size: 16px;
+  color: #000000;
+  font-size: 18px;
   font-weight: 400;
   line-height: 28px;
   padding-top: 8px;
@@ -904,7 +912,7 @@ transition: all.4s;
   position: relative;
   transition: all.4s;
   border: none;
-  background: none;
+  background: #d3a96f;
 }
 .button1::before {
   content: "";
