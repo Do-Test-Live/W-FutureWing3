@@ -3,7 +3,7 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo">
-                    <a href="#"><img src="assets/img/new/logo.png" alt="" style="width: 80%"></a>
+                    <a href="index.php"><img src="assets/img/new/logo.png" alt="" style="width: 80%"></a>
                 </div>
                 <div class="mobile-nav-icon">
                     <i class="fa-solid fa-bars" style="color: white;"></i>
@@ -21,13 +21,13 @@
         <i class="fa-solid fa-xmark"></i>
     </div>
     <div class="mobile-nav">
-        <li><a href="#">Home</a>
+        <li><a href="index.php">Home</a>
         </li>
-        <li><a href="#">Services</a>
+        <li><a href="services.php">Services</a>
         </li>
-        <li><a href="#">Products</a>
+        <li><a href="product.php">Products</a>
         </li>
-        <li><a href="#">Security</a>
+        <li><a href="security.php">Security</a>
         </li>
 
         <!--<div class="contact-mobile-menu-into">

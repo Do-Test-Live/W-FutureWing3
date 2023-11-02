@@ -5,7 +5,7 @@
                 <div class="col-12">
                     <div class="header-elements">
                         <div class="site-logo home1-site-logo">
-                            <a href="index-2.html"
+                            <a href="index.php"
                             ><img src="assets/img/new/logo.png" alt=""/>
                             </a>
                         </div>
@@ -13,13 +13,13 @@
 
                         <div class="main-menu-ex main-menu-ex1">
                             <ul class="font-f-2">
-                                <li><a href="#">Home</a>
+                                <li><a href="index.php">Home</a>
                                 </li>
-                                <li><a href="#">Services</a>
+                                <li><a href="services.php">Services</a>
                                 </li>
-                                <li><a href="#">Products</a>
+                                <li><a href="product.php">Products</a>
                                 </li>
-                                <li><a href="#">Security</a>
+                                <li><a href="security.php">Security</a>
                                 </li>
                             </ul>
                         </div>
@@ -27,7 +27,7 @@
 
                         <div class="home2-header-buttons">
                             <div class="button">
-                                <a href="#" class="button1">Login / Register <span><i
+                                <a href="login.php" class="button1">Login / Register <span><i
                                                 class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
