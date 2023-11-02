@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="section-hadding">
-                    <h1>Login</h1>
+                    <h1>Register</h1>
                 </div>
             </div>
         </div>
@@ -61,13 +61,13 @@
             <div class="col-lg-6">
                 <div class="contact3-form-all">
                     <div class="hadding3">
-                        <h1 class="font-30 font-lg-40  line-height-lg-48 line-height-38">Log In</h1>
+                        <h1 class="font-30 font-lg-40  line-height-lg-48 line-height-38">Register</h1>
                     </div>
                     <form action="#">
                         <div class="contact3-form">
                             <div class="contact-from-input">
                                 <input type="text" placeholder="Your Name">
-                                <input type="number" placeholder="Your Phone ">
+                                <input type="text" placeholder="Your Phone ">
                             </div>
                             <div class="contact-from-input contact-from-input2">
                                 <input type="email" placeholder="Your Email">

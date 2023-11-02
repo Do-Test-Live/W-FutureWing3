@@ -29,6 +29,8 @@
         </li>
         <li><a href="security.php">Security</a>
         </li>
+        <li><a href="login.php">Login / Register</a>
+        </li>
 
         <!--<div class="contact-mobile-menu-into">
             <div class="space50"></div>
