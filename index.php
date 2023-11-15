@@ -90,21 +90,21 @@ if (!isset($_SESSION['lan'])) {
                                     通过我们的专业信托结构保护您的资产</h1>
                                 <p class="text-white fs-3 d-block w-100 pt-3" data-aos="fade-right"
                                    data-aos-duration="800">
-                                    站式解决方案 – 为您提供专业的资产管理服务</p>
+                                    一站式解决方案 – 为您提供专业的资产管理服务</p>
                             </div>
                             <div class="carousel-item">
                                 <h1 class="text-white fs-3 d-block w-100" data-aos="fade-right" data-aos-duration="800">
                                     在数字世界中释放加密货币投资的潜力</h1>
                                 <p class="text-white fs-3 d-block w-100 pt-3" data-aos="fade-right"
                                    data-aos-duration="800">
-                                    站式解决方案 – 为您提供专业的资产管理服务</p>
+                                    一站式解决方案 – 为您提供专业的资产管理服务</p>
                             </div>
                             <div class="carousel-item">
                                 <h1 class="text-white fs-3 d-block w-100" data-aos="fade-right" data-aos-duration="800">
                                     与我们一起引领资产管理的未来</h1>
                                 <p class="text-white fs-3 d-block w-100 pt-3" data-aos="fade-right"
                                    data-aos-duration="800">
-                                    站式解决方案 – 为您提供专业的资产管理服务</p>
+                                    一站式解决方案 – 为您提供专业的资产管理服务</p>
                             </div>
                             <?php
                         }

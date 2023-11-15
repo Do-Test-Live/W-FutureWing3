@@ -199,7 +199,7 @@ if (!isset($_SESSION['lan'])) {
                         <div class="service1-box-icon">
                             <img src="assets/img/new/security/meeting.png" alt="">
                         </div>
-                        <div class="service1-hadding hadding3">
+                        <div class="service1-hadding hadding1">
                             <h4><a href="javascript:void(0);">合规和监管框架：符合行业标准</a></h4>
                             <p>合规是我们运营的核心。我们严格遵守所有相关的监管要求，并保持完善的合规框架。我们通过 KYC（了解客户身份）和AML（反洗钱）程序确保您的资产处于安全合规的环境中。
                                 选择我们，您可以放心知道您的资产将在一个符合行业标准的合规框架下进行管理和保护。我们将持续努力确保您的资产安全，并为您提供安全合规的投资环境。

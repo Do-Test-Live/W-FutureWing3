@@ -68,7 +68,7 @@ if (!isset($_SESSION['lan'])) {
                             ?>
                             <div class="carousel-item active">
                                 <h1 class="text-white fs-3 d-block w-100" data-aos="fade-right" data-aos-duration="800">
-                                    在东融财富，我们<span class="grad fs-1">我们利用信托结构来保护、分配和投资</span> 数字资产。</h1>
+                                    在东融财富，我们<span class="grad fs-1">利用信托结构来保护、分配和投资</span> 数字资产。</h1>
 
                             </div>
 
@@ -187,14 +187,14 @@ if (!isset($_SESSION['lan'])) {
                     <?php
                     if ($_SESSION['lan'] == 'EN') {
                         ?>
-                        <div class="choose1-img border5" data-aos="zoom-out" data-aos-duration="1000">
-                            <img src="assets/img/new/Truste.png" alt="">
+                        <div class="choose1-img border5 text-center p-lg-5 p-2" data-aos="zoom-out" data-aos-duration="1000">
+                            <img src="assets/img/new/Truste.png" alt="" class="img-fluid">
                         </div>
                         <?php
                     } else {
                         ?>
-                        <div class="choose1-img border5" data-aos="zoom-out" data-aos-duration="1000">
-                            <img src="assets/img/new/TrusteCN.png" alt="">
+                        <div class="choose1-img border5 text-center p-lg-5 p-2" data-aos="zoom-out" data-aos-duration="1000">
+                            <img src="assets/img/new/TrusteCN.png" alt="" class="img-fluid">
                         </div>
                         <?php
                     }
