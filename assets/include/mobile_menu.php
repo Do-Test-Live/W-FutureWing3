@@ -29,6 +29,8 @@
         </li>
         <li><a href="security.php">Security</a>
         </li>
+        <li><a href="login.php">Login / Register</a>
+        </li>
         <li class="has-dropdown"><a href="#">Language</a>
             <ul class="sub-menu">
                 <li><a href="assets/include/lang.php?lan=EN">English</a></li>

@@ -28,6 +28,12 @@
                                 </li>
                             </ul>
                         </div>
+                        <div class="home2-header-buttons">
+                            <div class="button">
+                                <a href="login.php" class="button1">Login / Register <span><i
+                                                class="fa-solid fa-arrow-right"></i></span></a>
+                            </div>
+                        </div>
                         <div class="mobile-menu-bar d-lg-none">
                             <i class="fas fa-bars"></i>
                         </div>
