@@ -1,4 +1,4 @@
-<div class="mobile-header mobile-header-4 d-block d-lg-none ">
+<div class="mobile-header mobile-header-4 d-block  d-lg-none ">
     <div class="container-fluid">
         <div class="col-12">
             <div class="mobile-header-elements">
@@ -13,7 +13,7 @@
     </div>
 </div>
 
-<div class="mobile-sidebar d-block d-lg-none">
+<div class="mobile-sidebar d-block  d-lg-none">
     <div class="menu-logo">
         <a href="#"><img src="assets/img/new/logo_black.png" alt=""></a>
     </div>
@@ -29,7 +29,11 @@
         </li>
         <li><a href="security.php">Security</a>
         </li>
-        <li><a href="login.php">Login / Register</a>
+        <li class="has-dropdown"><a href="#">Language</a>
+            <ul class="sub-menu">
+                <li><a href="assets/include/lang.php?lan=EN">English</a></li>
+                <li><a href="assets/include/lang.php?lan=CN">Chinese</a></li>
+            </ul>
         </li>
 
         <!--<div class="contact-mobile-menu-into">
